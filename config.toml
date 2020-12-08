@@ -1,3 +1,44 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://www.aqua-factory.dev/"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
+title = "水の草原の中の工場"
+theme = "hugo-PaperMod"
+
+[lauguages.ja]
+languageName = "Japanese"
+
+[[languages.ja.menu.main]]
+name = "ここについて"
+url = "about"
+weight = 5
+
+[[languages.ja.menu.main]]
+name = "過去の記事"
+url = "archives/"
+weight = 5
+
+[[languages.ja.menu.main]]
+name = "タグ"
+url = "tags/"
+weight = 10
+
+[[languages.ja.menu.main]]
+name = "作成物"
+url = "products"
+
+[params]
+description = "ゲームを中心に色々とものづくりをしているサイトです。"
+author = ["Aquid", "Agate"]
+
+ShowReadingTime = false
+ShowShareButtons = true
+comments = false
+
+defaultTheme = "light"
+disableThemeToggle = true
+
+[params.homeInfoParams]
+Title = "ここはなんぞや？"
+Content = """
+主にWindows用のゲームを作成しているサークルAQUA FACTORYの公式ページです。
+"""
