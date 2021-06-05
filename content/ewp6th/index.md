@@ -26,4 +26,7 @@ comments: false
 
 # みほん
 
-いつかはる
+{{< figure src="screenshot_210605_2.jpg" alt="タイトルサンプル" >}}
+{{< figure src="screenshot_210605_1.jpg" alt="対戦画面サンプル" >}}
+
+※キャラクターはサンプルです。
