@@ -26,6 +26,8 @@ comments: false
 
 # みほん
 
+画像は開発中のものです。
+
 {{< figure src="screenshot_210605_2.jpg" alt="タイトルサンプル" >}}
 {{< figure src="screenshot_210605_1.jpg" alt="対戦画面サンプル" >}}
 
