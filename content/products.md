@@ -16,6 +16,6 @@ comments: false
 
 超多様プレイスタイルSTG。
 
-# [EWP 6th Generation]({{< ref ewp6th >}})
+# [エッグウォーパズル]({{< ref ewp6th >}})(開発中)
 
 異種混合対戦格闘落ち物パズルアクションゲーム。
